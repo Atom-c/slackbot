@@ -1,0 +1,23 @@
+{
+  "name": "slackbot",
+  "version": "1.0.0",
+  "description": "_A slackbot",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "ejs": "2.3.3",
+    "express": "4.13.3",
+    "request": "^2.67.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atom-c/slackbot.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atom-c"
+  },
+  "homepage": "https://github.com/atom-c"
+}
